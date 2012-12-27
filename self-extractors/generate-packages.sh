@@ -42,8 +42,8 @@
 BRANCH=jb-mr1-dev
 if test $BRANCH=ics-mr1
 then
-  ZIP=yakju-ota-299849.zip
-  BUILD=imm76d
+  ZIP=yakju-ota-330937.zip
+  BUILD=imm76i
 fi # ics-mr1
 if test $BRANCH=jb-dev
 then
